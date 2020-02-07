@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+Feel free to contact us for any reason. We welcome responses to & critiques of ANTIFOCAL content. We use ProtonMail for encrypted email & take opsec seriously.
 
-My e-mail is [email@something.com](mailto:email@something.com).
+Contact us at [antifocal@protonmail.com](mailto:antifocal@protonmail.com).
